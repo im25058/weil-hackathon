@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+langgraph
+groq
+requests
+fpdf
+matplotlib
+python-dotenv
+graphviz
